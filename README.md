@@ -35,8 +35,3 @@
   <img src="https://profile-counter.glitch.me/Kiimbu/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Kiimbu/Kiimbu/output/snake.svg" alt="Snake animation" />
-
-###
